@@ -9,6 +9,7 @@ If you are on one of the school's computers, use the following commands in your 
     - cd Go-Discovery
   3. Unpack the 'createGopath.tar.gz' file:
     - tar -xvf createGopath.tar.gz
+    - It should display x createGopath.bash if everything is successful
   4. Run the script file that was just unpacked:       
     - bash createGopath.bash (this may take a few moments to complete)
   5. Source your profile:
@@ -16,4 +17,4 @@ If you are on one of the school's computers, use the following commands in your 
   6. Open Atom from your terminal (!important):
     - atom .
   7. Through Atom, install the go-plus package:
-    - find the package installer in PREFERENCES>INSTALL, use the search box to find 'go-plus' and install the package! 
+    - find the package installer in ATOM>PREFERENCES>INSTALL, use the search box to find 'go-plus' and install the package! 
