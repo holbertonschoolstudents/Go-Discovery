@@ -1,7 +1,7 @@
 # Go-Discovery
 This repo contains a script which will help you setup for the Go discovery workshop at Holberton School
 
-If you are on one of the school's computers, follow these steps in your terminal:
+If you are on one of the school's computers, use the following commands in your terminal:
 
   1. Clone this repository:
     - git clone https://github.com/holbertonschoolstudents/Go-Discovery.git
