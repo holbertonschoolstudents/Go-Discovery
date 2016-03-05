@@ -19,3 +19,6 @@ If you are on one of the school's computers, use the following commands in your 
     - or, if that fails, use: open -a atom
   7. Through Atom, install the go-plus package:
     - find the package installer in ATOM>PREFERENCES, and click on the INSTALL menu tab. Finally, use the search box to find 'go-plus' and install the package! 
+
+
+If you are not on one of the school's computers, and are using Mac OS, you can still follow these directions but you will first need to install Go version 1.6 (https://golang.org/doc/install), and the Atom editor (https://atom.io/).
