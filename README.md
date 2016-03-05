@@ -16,4 +16,4 @@ If you are on one of the school's computers, use the following commands in your 
   6. Open Atom from your terminal (!important):
     - atom .
   7. Through Atom, install the go-plus package:
-    - find the package installer in settings and search for go-plus, then install! 
+    - find the package installer in PREFERENCES>INSTALL, use the search box to find 'go-plus' and install the package! 
